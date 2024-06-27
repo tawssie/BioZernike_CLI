@@ -6,6 +6,8 @@ The source code for BioZernike is available at https://github.com/biocryst/bioze
 ZMPY3D is a project that implements 3D Zernike moments using NumPy, TensorFlow, and CuPy.
 
 https://github.com/tawssie/ZMPY3D
+
 https://github.com/tawssie/ZMPY3D_TF
+
 https://github.com/tawssie/ZMPY3D_CP
 
